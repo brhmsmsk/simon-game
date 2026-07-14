@@ -1,10 +1,10 @@
-ï»¿# Simon Game
+# Simon Game
 
-A browser-based recreation of the classic Simon memory game. Watch the sequence of colors and sounds, then repeat it back â€” each round adds one more step.
+A browser-based recreation of the classic Simon memory game. Watch the sequence of colors and sounds, then repeat it back — each round adds one more step.
 
 ## Play it live
 
-https://greax22.github.io/simon-game/
+https://brhmsmsk.github.io/simon-game/
 
 ## Built with
 
@@ -14,7 +14,7 @@ https://greax22.github.io/simon-game/
 
 ## Run it locally
 
-Clone the repo and open `index.html` in your browser â€” no build steps or dependencies required.
+Clone the repo and open `index.html` in your browser — no build steps or dependencies required.
 
 ```bash
 git clone https://github.com/Greax22/simon-game.git
